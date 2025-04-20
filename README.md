@@ -1,4 +1,3 @@
-Certainly! Here's your **Family Travel Tracker App README** using markdown syntax with `#` for headings and `*` for bullet points to make it nicely formatted for GitHub or any markdown viewer:
 
 ---
 
