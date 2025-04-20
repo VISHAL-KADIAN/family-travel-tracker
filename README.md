@@ -10,15 +10,14 @@ Developed a full-stack **Family Travel Tracker App** to help families collaborat
 * Real-time activity logging for family members  
 * Trip creation, editing, and deletion  
 * Location tagging and map integration for travel history  
-* Role-based access (e.g., admin, parent, child) for secure usage  
-* Comment and media upload capabilities to enrich trip entries  
 
 ## Technology Stack
 
-* **Frontend:** React.js, TailwindCSS  
 * **Backend:** Node.js, Express.js  
-* **Database:** MongoDB  
-* **APIs:** RESTful APIs for all major functionalities  
+* **Database:** PostgreSQL  
+* **Templating Engine:** EJS  
+* **Middleware:** Body-parser  
+
 
 ## Architecture Overview
 
@@ -35,7 +34,6 @@ Developed a full-stack **Family Travel Tracker App** to help families collaborat
 ### 3. Activity Feed
 
 * **Purpose:** Real-time updates of family travel logs and comments  
-* **Technology:** MongoDB change streams or polling (depending on deployment setup)  
 
 ## ⚙️ Setup Instructions
 
